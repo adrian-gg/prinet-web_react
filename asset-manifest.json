@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prinet-web_react/static/css/main.1c5ae431.css",
-    "main.js": "/prinet-web_react/static/js/main.bfb9734e.js",
+    "main.js": "/prinet-web_react/static/js/main.3116e9d6.js",
     "static/media/punales.jpg": "/prinet-web_react/static/media/punales.9850103453ab4335bebd.jpg",
     "static/media/logo_movie.png": "/prinet-web_react/static/media/logo_movie.a3a8b3533641c801f338.png",
     "index.html": "/prinet-web_react/index.html",
     "main.1c5ae431.css.map": "/prinet-web_react/static/css/main.1c5ae431.css.map",
-    "main.bfb9734e.js.map": "/prinet-web_react/static/js/main.bfb9734e.js.map"
+    "main.3116e9d6.js.map": "/prinet-web_react/static/js/main.3116e9d6.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5ae431.css",
-    "static/js/main.bfb9734e.js"
+    "static/js/main.3116e9d6.js"
   ]
 }
